@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestion Matos", "Gestion Matos\Gestion Matos.csproj", "{E53F2214-935F-45DD-AC2C-B7F2B61F2D61}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{773BEAED-E322-47AE-96BB-8FA301C70B55}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E53F2214-935F-45DD-AC2C-B7F2B61F2D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53F2214-935F-45DD-AC2C-B7F2B61F2D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53F2214-935F-45DD-AC2C-B7F2B61F2D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E53F2214-935F-45DD-AC2C-B7F2B61F2D61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDFF704C-8FB1-4CA9-8454-AF0414B3AA66}
+	EndGlobalSection
+EndGlobal

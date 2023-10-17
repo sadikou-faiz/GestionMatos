@@ -1,0 +1,16 @@
+C:\Users\adenl\source\repos\Gestion Matos\Gestion Matos\bin\Debug\Gestion Matos.exe.config
+C:\Users\adenl\source\repos\Gestion Matos\Gestion Matos\bin\Debug\Gestion Matos.exe
+C:\Users\adenl\source\repos\Gestion Matos\Gestion Matos\bin\Debug\Gestion Matos.pdb
+C:\Users\adenl\source\repos\Gestion Matos\Gestion Matos\obj\Debug\Gestion_Matos.Form1.resources
+C:\Users\adenl\source\repos\Gestion Matos\Gestion Matos\obj\Debug\Gestion_Matos.Properties.Resources.resources
+C:\Users\adenl\source\repos\Gestion Matos\Gestion Matos\obj\Debug\Gestion Matos.csproj.GenerateResource.cache
+C:\Users\adenl\source\repos\Gestion Matos\Gestion Matos\obj\Debug\Gestion Matos.csproj.CoreCompileInputs.cache
+C:\Users\adenl\source\repos\Gestion Matos\Gestion Matos\obj\Debug\Gestion Matos.exe
+C:\Users\adenl\source\repos\Gestion Matos\Gestion Matos\obj\Debug\Gestion Matos.pdb
+C:\Users\adenl\source\repos\Gestion Matos\Gestion Matos\obj\Debug\Gestion_Matos.materiel.resources
+C:\Users\adenl\source\repos\Gestion Matos\Gestion Matos\obj\Debug\Gestion_Matos.site.resources
+C:\Users\adenl\source\repos\Gestion Matos\Gestion Matos\obj\Debug\Gestion Matos.csproj.AssemblyReference.cache
+C:\Users\adenl\source\repos\Gestion Matos\Gestion Matos\obj\Debug\Gestion_Matos.interventions.resources
+C:\Users\adenl\source\repos\Gestion Matos\Gestion Matos\obj\Debug\GestionMatos_Matos.Client.resources
+C:\Users\adenl\source\repos\Gestion Matos\Gestion Matos\obj\Debug\Gestion_Matos.Type.resources
+C:\Users\adenl\source\repos\Gestion Matos\Gestion Matos\obj\Debug\Gestion_Matos.connexion.resources
